@@ -5,7 +5,7 @@ const CONFIG = {
   username: 'dennis25884',
   showOnly: [
     'CiberSeguridad-Informes',
-    // agrega más repos aquí, ej: 'otro-repo',
+    'scripts-pentesting'
   ],
 };
 // ════════════════════════════════════════
