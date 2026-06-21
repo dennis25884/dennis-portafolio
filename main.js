@@ -5,7 +5,9 @@ const CONFIG = {
   username: 'dennis25884',
   showOnly: [
     'CiberSeguridad-Informes',
-    'scripts-pentesting'
+    'scripts-pentesting',
+    'LPAC---Proyecto-II-backend',
+    'LPAC---Proyecto-II-frontend'
   ],
 };
 // ════════════════════════════════════════
